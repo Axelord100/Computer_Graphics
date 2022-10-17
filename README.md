@@ -1,2 +1,5 @@
 # Computer_Graphics
-Course taken at ITAM Fall 2022
+
+This is the course taken at ITAM Fall 2022, here I'll upload both homeworks and projects done. 
+
+In this class we used the langugage of C++ for it to be implemented in OpenGL.
